@@ -10,6 +10,15 @@
 > - **Browser Embeds:** Embedded web previews (such as Google Sites) restrict USB/Serial hardware permissions. For live DMX interface control, download the standalone `.html` file or native Desktop App from the **[Releases Page](https://github.com/DJDPCREATOR/LightOSX/releases)**.
 > - **Platform Status:** Windows (`x64`), Linux (`AppImage` & `tar.gz`), and Browser builds are tested. **macOS (`arm64` & `x64`) builds are currently untested**—feedback is welcome! *(Mac users: right-click the app > **Open** on first launch to bypass the unsigned developer warning.)*
 
+## Overview & Supported Hardware
+
+**LightOSX** is a free, 100% offline **DMX512 lighting controller**, **DJ performance pad deck**, and **sound-to-light show generator** available as a native Desktop App (Windows, Linux, macOS) or a zero-install single-file HTML5 web app.
+
+### Key Capabilities & Search Tags
+* **USB & Network DMX Interfaces:** Native support for **ENTTEC Open DMX**, **ENTTEC DMX USB Pro**, **DMXking**, generic **FTDI** adapters, **uDMX**, **Art-Net**, and **sACN (E1.31)**.
+* **Smart & PC Lighting:** Control **OpenRGB** devices (keyboards, mice, RAM, fans, LED strips), **Bluetooth Low Energy (BLE) LED strips**, virtual video/laser screens, and **Home Assistant** integrations.
+* **DJ & Live Performance Tools:** 64+ customizable **DJ performance pads** with choke groups, **MIDI controller mapping** (MIDI Learn), **BPM & beat detection**, system audio loopback capture, moving-head patterns, pixel-matrix displays, and an offline **natural-language chase/scene generator**.
+* **Zero Cloud or Internet Required:** Runs completely offline with local settings backup and optional GitHub Gist cloud sync.
 
 # LightOSX by DJDP: desktop app
 

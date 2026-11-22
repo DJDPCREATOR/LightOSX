@@ -1,3 +1,10 @@
+![Status](https://shields.io)
+![Offline](https://shields.io)
+![Platforms](https://shields.io)
+![Hardware](https://shields.io)
+
+> **⚠️ Hardware Control Notice:** Browser embeds (such as Google Sites) restrict USB/Serial hardware permissions. For live DMX interface control, download the standalone `.html` file or native Desktop App from the **[Releases Page](https://github.com)**.
+
 # LightOSX by DJDP: desktop app
 
 A standalone version of LightOSX. No browser, no Python, no helper programs: everything runs inside this one app, fully offline.

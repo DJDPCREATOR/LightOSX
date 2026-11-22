@@ -3,7 +3,7 @@
 ![Platforms](https://shields.io)
 ![Hardware](https://shields.io)
 
-> **⚠️ Hardware Control Notice:** Browser embeds (such as Google Sites) restrict USB/Serial hardware permissions. For live DMX interface control, download the standalone `.html` file or native Desktop App from the **[Releases Page](https://github.com)**.
+> **⚠️ Hardware Control Notice:** Browser embeds (such as Google Sites) restrict USB/Serial hardware permissions. For live DMX interface control, download the standalone `.html` file or native Desktop App from the **[Releases Page]([https://github.com/DJDPCREATOR/LightOSX/releases)**.
 
 # LightOSX by DJDP: desktop app
 

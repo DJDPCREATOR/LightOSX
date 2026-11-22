@@ -1,9 +1,15 @@
 ![Status](https://shields.io)
 ![Offline](https://shields.io)
 ![Platforms](https://shields.io)
+![macOS](https://shields.io)
 ![Hardware](https://shields.io)
 
-> **⚠️ Hardware Control Notice:** Browser embeds (such as Google Sites) restrict USB/Serial hardware permissions. For live DMX interface control, download the standalone `.html` file or native Desktop App from the **[Releases Page]([https://github.com/DJDPCREATOR/LightOSX/releases)**.
+[![Download Latest Release](https://shields.io⬇_Download_Latest_Release_(Windows_/_Linux_/_macOS_/_HTML)-2ea44f?style=for-the-badge)](https://github.com/DJDPCREATOR/LightOSX/releases)
+
+> **⚠️ Hardware Control & Platform Notice:**
+> - **Browser Embeds:** Embedded web previews (such as Google Sites) restrict USB/Serial hardware permissions. For live DMX interface control, download the standalone `.html` file or native Desktop App from the **[Releases Page](https://github.com/DJDPCREATOR/LightOSX/releases)**.
+> - **Platform Status:** Windows (`x64`), Linux (`AppImage` & `tar.gz`), and Browser builds are tested. **macOS (`arm64` & `x64`) builds are currently untested**—feedback is welcome! *(Mac users: right-click the app > **Open** on first launch to bypass the unsigned developer warning.)*
+
 
 # LightOSX by DJDP: desktop app
 
